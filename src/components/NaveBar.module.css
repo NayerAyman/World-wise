@@ -1,0 +1,9 @@
+.nav {
+  background-color: rgb(252, 22, 22);
+}
+.nav ul{
+  display: flex;
+  list-style: none;
+  font-size: 40px;
+  gap: 15px;
+}

@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "pt",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "9562",
+      "cityName": "Banha",
+      "country": "Egypt",
+      "emoji": "EG",
+      "date": "2025-10-15T10:59:37.793Z",
+      "notes": "",
+      "position": {
+        "lat": "30.462879341709886",
+        "lng": "31.195678710937504"
+      }
+    },
+    {
+      "id": "59de",
+      "cityName": "Giza",
+      "country": "Egypt",
+      "emoji": "EG",
+      "date": "2025-10-16T08:44:08.136Z",
+      "notes": "",
+      "position": {
+        "lat": "29.7453016622136",
+        "lng": "31.596679687500004"
+      }
+    },
+    {
+      "id": "fa31",
+      "cityName": "Banha",
+      "country": "Egypt",
+      "emoji": "EG",
+      "date": "2025-10-16T08:44:54.546Z",
+      "notes": "hhh",
+      "position": {
+        "lat": "30.460511875130663",
+        "lng": "31.19979858398438"
+      }
+    }
+  ]
+}
